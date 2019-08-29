@@ -1,0 +1,38 @@
+{
+  "name": "JohanCendono",
+  "short_name": "JohanCendono",
+  "start_url": "https://www.johancendono.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog ini merupakan blog personal johan cendono yang berisi berbagai macam informasi",
+  "icons": [{
+    "src": "https://lh3.googleusercontent.com/-LAc_SZOyGNE/XWeF_oUM6QI/AAAAAAAAAZA/WV_4u9Bkx34MasrewYJpDSzfN630NcBpACLcBGAs/h120/johancendono48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-5Ig6GGMKERo/XWeF_zgKNHI/AAAAAAAAAZI/ClUNtaT7TCMg57briISJjwzZFwDcRw-vQCLcBGAs/h120/johancendono72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-aNriy8ghYmQ/XWeGAHTiB1I/AAAAAAAAAZM/Hs9RCAIGdSg8kEcPeBruWNXXACxsfvmtgCLcBGAs/h120/johancendono96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-GqW7tEdUmPQ/XWeF-1YzzWI/AAAAAAAAAY8/ZO1Whm7JRQoXQkGwoKs-uqAyKJiCYADUACLcBGAs/h120/johancendono144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-_-bI7g084KA/XWeF-0kabLI/AAAAAAAAAY4/URt_lc9Op9c6pJ_T3bQpajHgok1PZ66tQCLcBGAs/h120/johancendono168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-3G-S8lV4lwI/XWeF--t_0DI/AAAAAAAAAY0/kK1d5ky_zQoozeHVJLJ2BTeD3zzJr_PNQCLcBGAs/h120/johancendono192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-xWbCMteeUgo/XWeF_lcyCiI/AAAAAAAAAZE/0gZh_6LJK5QSKyIp6Bex6k0pSaRuAAVZwCLcBGAs/h120/johancendono512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
